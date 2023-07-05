@@ -8,10 +8,10 @@ Het spel ‘Alien Invasion’. Het idee van het spel is dat de gebruiker een nad
 Python
 
 # Gebruikte Python modules:
-Pygame
-Sys
-Time
-Turtle
+- Pygame
+- Sys
+- Time
+- Turtle
 
 # Screenshots:
 ![image](https://github.com/priksten/Alien-Invasion/assets/85739742/90ebeb0b-c967-43c8-b5ea-c90e28989770)
