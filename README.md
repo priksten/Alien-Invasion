@@ -15,3 +15,5 @@ Python
 
 # Screenshots:
 ![image](https://github.com/priksten/Alien-Invasion/assets/85739742/90ebeb0b-c967-43c8-b5ea-c90e28989770)
+![image](https://github.com/priksten/Alien-Invasion/assets/85739742/f638dcb9-0b22-497e-bac0-12dbbea9419f)
+
