@@ -6,7 +6,8 @@ Het spel ‘Alien Invasion’. Het idee van het spel is dat de gebruiker een nad
 
 # Programmeertaal + versie: 
 Python
-Gebruikte modules:
+
+# Gebruikte Python modules:
 Pygame
 Sys
 Time
